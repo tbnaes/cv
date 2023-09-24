@@ -1,6 +1,6 @@
 ---
-title: Scarlett Winters' Resume"
-author: Scarlett Winters
+title: Tyler B. Naes' Resume"
+author: Tyler B. Naes
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -46,10 +46,9 @@ Contact {#contact}
 
 
 
-- <i class="fa fa-envelope"></i> winters.scarlett.e@gmail.com
-- <i class="fa fa-twitter"></i> ScarData
-- <i class="fa fa-github"></i> github.com/scarlett425
-- <i class="fa fa-phone"></i> (312) 805-9540
+- <i class="fa fa-envelope"></i> tbnaes@gmail.com
+- <i class="fa fa-github"></i> github.com/tbnaes
+- <i class="fa fa-phone"></i> (731) 697 - 6442
 
 
 
@@ -60,11 +59,10 @@ Skills {#skills}
 Highly experienced in
 
 
+- R
 - SQL
-- Python
-- Tableau
-- Requirements Analysis
-- Consulting
+- CSS
+- HTML
 
 --------------------------------------------------------------------------------
 
@@ -80,7 +78,7 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Scarlett Winters {#title}
+Tyler B. Naes {#title}
 --------------------------------------------------------------------------------
 
 
