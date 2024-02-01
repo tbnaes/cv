@@ -15,6 +15,10 @@
   margin: 0 0.5in 0.08in -0.5in;
 }
 
+[data-id="examples"] {
+  margin: 1in 0.5in 0 0.05in;
+}
+
 .main-block {
   margin-top: 0;
   margin-left: -0.1in;

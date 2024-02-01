@@ -37,12 +37,15 @@ position_data <- read_csv('positions.csv') %>%
 
 
 
+
 Aside
 ================================================================================
 
 
+
 Contact {#contact}
 --------------------------------------------------------------------------------
+
 
 
 
@@ -52,19 +55,30 @@ Contact {#contact}
 
 
 
+
 Skills {#skills}
 --------------------------------------------------------------------------------
 
 
-Experienced in
 
+Programming with:
 
 - R
 - SQL
 - CSS
 - HTML
 
+Creativity with:
+
+- Writing
+- Pen and Ink
+- Painting
+- Music
+
+
+
 --------------------------------------------------------------------------------
+
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -75,11 +89,43 @@ Source code: [github.com/nstrayer/cv](https://github.com/scarlett425/cv).
 
 Last updated on `r Sys.Date()`.
 
+
 Main
 ================================================================================
 
+
 Tyler B. Naes {#title}
 --------------------------------------------------------------------------------
+
+
+
+
+
+Positions {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+```{r}
+position_data %>% print_section('professional_experience')
+```
+
+
+
+
+Programming Examples {#examples}
+--------------------------------------------------------------------------------
+
+Tempe Crash Dashboard: [tbnaes.shinyapps.io/final-project-naes](https://tbnaes.shinyapps.io/final-project-naes/).
+
+
+
+
+Academic Achievements & Projects {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+```{r}
+position_data %>% print_section('academic_achievements')
+```
+
 
 
 
@@ -92,19 +138,12 @@ position_data %>% print_section('education')
 
 
 
-Academic Achievements & Projects {data-icon=suitcase}
+
+Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-```{r}
-position_data %>% print_section('academic_achievements')
-```
+Made w/ [**pagedown**](https://github.com/rstudio/pagedown). 
 
-Positions {data-icon=suitcase}
---------------------------------------------------------------------------------
+Source code: [github.com/nstrayer/cv](https://github.com/scarlett425/cv).
 
-
-```{r}
-position_data %>% print_section('professional_experience')
-```
-
-
+Last updated on `r Sys.Date()`.
