@@ -49,9 +49,8 @@ Contact {#contact}
 
 
 
-- <i class="fa fa-envelope"></i> tbnaes@gmail.com
+- <i class="fa fa-envelope"></i> tnaes@hotmail.com
 - <i class="fa fa-github"></i> github.com/tbnaes
-- <i class="fa fa-phone"></i> (731) 697 - 6442
 
 
 
