@@ -96,7 +96,8 @@ Main
 Tyler B. Naes {#title}
 --------------------------------------------------------------------------------
 
-
+Through my experiences, I have built a strong background in operations and analysis. I will continue
+this impassioned work through the disciplined application of coding and creativity for an employer.
 
 
 
@@ -110,7 +111,7 @@ position_data %>% print_section('professional_experience')
 
 
 
-Programming Examples {#examples}
+Programming Example {#examples}
 --------------------------------------------------------------------------------
 
 Tempe Crash Dashboard: [tbnaes.shinyapps.io/final-project-naes](https://tbnaes.shinyapps.io/final-project-naes/).
