@@ -111,10 +111,14 @@ position_data %>% print_section('professional_experience')
 
 
 
-Programming Example {#examples}
+Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-Tempe Crash Dashboard: [tbnaes.shinyapps.io/final-project-naes](https://tbnaes.shinyapps.io/final-project-naes/).
+```{r}
+position_data %>% print_section('education')
+```
+
+
 
 
 
@@ -127,14 +131,10 @@ position_data %>% print_section('academic_achievements')
 ```
 
 
-
-
-Education {data-icon=graduation-cap data-concise=true}
+Programming Example {#examples}
 --------------------------------------------------------------------------------
 
-```{r}
-position_data %>% print_section('education')
-```
+  Tempe Crash Dashboard: [tbnaes.shinyapps.io/final-project-naes](https://tbnaes.shinyapps.io/final-project-naes/).
 
 
 
