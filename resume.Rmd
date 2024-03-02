@@ -74,6 +74,8 @@ Creativity with:
 - Painting
 - Music
 
+R Example: [tbnaes.shinyapps.io/final-project-naes](https://tbnaes.shinyapps.io/final-project-naes/).
+
 
 
 --------------------------------------------------------------------------------
@@ -131,10 +133,17 @@ position_data %>% print_section('academic_achievements')
 ```
 
 
-Programming Example {#examples}
---------------------------------------------------------------------------------
 
-  Tempe Crash Dashboard: [tbnaes.shinyapps.io/final-project-naes](https://tbnaes.shinyapps.io/final-project-naes/).
+```{r}
+##Programming Example {#examples}
+##--------------------------------------------------------------------------------
+  ##Tempe Crash Dashboard: 
+  ##[tbnaes.shinyapps.io/final-project-naes](https://tbnaes.shinyapps.io/final-project-naes/)
+
+## take out of chunk and remove hashtags to activate example 
+```
+
+
 
 
 
