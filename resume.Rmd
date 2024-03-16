@@ -49,7 +49,7 @@ Contact {#contact}
 
 
 
-- <i class="fa fa-envelope"></i> tnaes@hotmail.com
+- <i class="fa fa-envelope"></i> tbnaes@gmail.com
 - <i class="fa fa-github"></i> github.com/tbnaes
 
 
@@ -62,17 +62,10 @@ Skills {#skills}
 
 Programming with:
 
-- R
-- SQL
-- CSS
 - HTML
-
-Creativity with:
-
-- Writing
-- Pen and Ink
-- Painting
-- Music
+- CSS
+- SQL
+- R
 
 R Example: [tbnaes.shinyapps.io/final-project-naes](https://tbnaes.shinyapps.io/final-project-naes/).
 
