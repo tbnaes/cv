@@ -58,7 +58,13 @@ Contact {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
+Communication
 
+Writing
+
+Team Oriented
+
+Servant-Leadership
 
 Programming with:
 
