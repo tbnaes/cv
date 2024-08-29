@@ -48,7 +48,7 @@ Contact {#contact}
 
 
 
-
+- <i class="fa fa-phone"></i> (731) 697-6442
 - <i class="fa fa-envelope"></i> tbnaes@gmail.com
 - <i class="fa fa-github"></i> github.com/tbnaes
 
@@ -73,11 +73,31 @@ Programming with:
 - SQL
 - R
 
-R Example: [tbnaes.shinyapps.io/final-project-naes](https://tbnaes.shinyapps.io/final-project-naes/).
+<i class="fa fa-computer"></i>
+R Language Example: [tbnaes.shinyapps.io/final-project-naes](https://tbnaes.shinyapps.io/final-project-naes/).
 
 
+
+
+References {#references}
+--------------------------------------------------------------------------------
+
+Rachel Evans (Former Asst. Principal and Curriculum at Karns High School)
+
+<i class="fa fa-phone"></i> (865) 851-4398
+
+<i class="fa fa-envelope"></i> rachel.evans@knoxschools.org
+
+
+Mike Adams (Former ACT Coordinator & Colleague at Humboldt High School)
+
+<i class="fa fa-phone"></i> (731) 487-0338
+
+<i class="fa fa-envelope"></i> mike.adams@trentonssd.org
 
 --------------------------------------------------------------------------------
+
+
 
 
 Disclaimer {#disclaimer}
@@ -97,8 +117,8 @@ Main
 Tyler B. Naes {#title}
 --------------------------------------------------------------------------------
 
-Through my experiences, I have built a strong background in operations and analysis. I will continue
-this impassioned work through the disciplined application of coding and creativity for an employer.
+Through working and educational experiences, I have built myself a strong, analytic background. I am at
+my best in a position of service, offering insight from a life of heavy reading and writing.
 
 
 
@@ -124,7 +144,7 @@ position_data %>% print_section('education')
 
 
 
-Academic Achievements & Projects {data-icon=suitcase}
+Academic Achievements & Projects {data-icon=medal}
 --------------------------------------------------------------------------------
 
 ```{r}
