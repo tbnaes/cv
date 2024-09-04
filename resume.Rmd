@@ -6,7 +6,7 @@ output:
   pagedown::html_resume:
     css: ['css/custom_resume.css', 'css/styles.css', 'resume']
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: true
+    self_contained: false
 ---
 
 ```{r, include=FALSE}
@@ -58,6 +58,7 @@ Contact {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
+
 Communication
 
 Writing
@@ -82,11 +83,13 @@ R Language Example: [tbnaes.shinyapps.io/final-project-naes](https://tbnaes.shin
 References {#references}
 --------------------------------------------------------------------------------
 
+
 Rachel Evans (Former Asst. Principal and Curriculum at Karns High School)
 
 <i class="fa fa-phone"></i> (865) 851-4398
 
 <i class="fa fa-envelope"></i> rachel.evans@knoxschools.org
+
 
 
 Mike Adams (Former ACT Coordinator & Colleague at Humboldt High School)
@@ -95,7 +98,7 @@ Mike Adams (Former ACT Coordinator & Colleague at Humboldt High School)
 
 <i class="fa fa-envelope"></i> mike.adams@trentonssd.org
 
---------------------------------------------------------------------------------
+
 
 
 
